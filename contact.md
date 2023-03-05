@@ -2,7 +2,7 @@
 layout: page
 ---
 forms:
-  - to: jhvanderschee@gmail.com
+  - to: 23websites.com@gmail.com
     subject: New submission!
     redirect: /
     form_engine: formspree
